@@ -1,6 +1,8 @@
 ## 영남대 24학번 2241206 김승훈 입니다
 Tämä on kotitehtävä. 
 Minulla on yksi kissa.
+Tykkään syödä kissaa.
+
 
 <!--
 **babo-poop/babo-poop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
