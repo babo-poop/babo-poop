@@ -1,4 +1,4 @@
-## 영남대 24학번 2241206 김승훈 입니다
+## 영남대 24학번 22412086 김승훈 입니다
 Tämä on kotitehtävä. 
 Minulla on yksi kissa.
 Tykkään syödä kissaa.
